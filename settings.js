@@ -2,7 +2,7 @@ const fs = require('fs')
 
 global.creator = 'Akira ID'// yourname
 global.apikey = ["subskira", "testkira"]
-global.MONGO_DB_URI = "mongodb+srv://akiraid:pertamina@cluster0.6thybaq.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
+global.MONGO_DB_URI = "mongodb+srv://akiraid27:pertalite@cluster0.ssans99.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "akirzsmurf@gmail.com" //email
 global.email_password = "kovrwpdchokzihyz" //application password email
